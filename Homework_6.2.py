@@ -54,4 +54,4 @@ while True:
         else:
             print("Invalid number entered. Must be between 0 and 8640000.")
     except ValueError:
-        print("Error: The entered number is not a number. Please enter a whole number.")
+        print("Error: The entered number is not a number. Please enter a correct number.")
